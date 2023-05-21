@@ -1,4 +1,4 @@
-![Masterhead](https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?w=1170&ssl=1)]
+![Masterhead](https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?w=1170&ssl=1)
 <h1 align="center">Hi 👋, I'm Aman kumar</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/male-programmer-working-computer-office-wall-with-hanging-reminder-stickers-developer-creating-new-software-interface-coding-programming-system-administrator-designer-character_575670-1159.jpg?w=1800&t=st=1684676318~exp=1684676918~hmac=becd748d75d0ab1fad36b303d3eb419447f43f5625eec76064c4a886c0eede77">
