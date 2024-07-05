@@ -18,7 +18,7 @@
 - 📫 How to reach me **aman.kumarz2404@gmail.com**
 
 - 📄 Know about my experiences
-[https://drive.google.com/file/d/1j8de5iQNcZQuPrXIVTwmV959mQw62gBm/view?usp=share_link](https://drive.google.com/file/d/1j8de5iQNcZQuPrXIVTwmV959mQw62gBm/view?usp=share_link)
+[https://docs.google.com/document/d/1amyOZhbSC0J_WRnafWeiJI2Hq9TgLBx2d_Nepd_I_9M/edit?usp=sharing](https://docs.google.com/document/d/1amyOZhbSC0J_WRnafWeiJI2Hq9TgLBx2d_Nepd_I_9M/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
